@@ -60,7 +60,7 @@ These instructions assume that you have already set up `VS` or '`VSCode` for Pyt
 3. A few lines of code must be added at the beginning of the top-level python file of your project.
 4. `VS` or `VSCode` must have a properly set up launch configuration.
 
-Also, as stated [earlier](#a-word-about-platforms), it is highly recommened that you install one or more Kodi versions in [Portable Mode](https://kodi.wiki/view/Portable_mode) for full `debugpy` functionality.
+Also, as stated [earlier](#a-word-about-platforms), it is highly recommended that you install one or more Kodi versions in [Portable Mode](https://kodi.wiki/view/Portable_mode) for full `debugpy` functionality.
 
 Instructions for each of these four steps are detailed below...
 
